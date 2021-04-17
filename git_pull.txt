@@ -1,1 +1,0 @@
-OSS과제 git pull 사용
